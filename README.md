@@ -1,10 +1,9 @@
 # Video Tutorial on how to do it  
 Below video is created to give you the basic understanding of the [🚩 Challenge #3: The Graph](https://github.com/kmjones1979/scaffold-eth-2-solidity/tree/solidity-3-the-graph) wtih basic explanations that are going to be helpful for the newcomers.
-https://www.loom.com/share/58b6cd6e0f5c4557a0bdb52be88ade2d
+[https://www.loom.com/share/58b6cd6e0f5c4557a0bdb52be88ade2d](https://www.loom.com/share/58b6cd6e0f5c4557a0bdb52be88ade2d)
 
-<a href="https://www.loom.com/share/58b6cd6e0f5c4557a0bdb52be88ade2d">
-<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/58b6cd6e0f5c4557a0bdb52be88ade2d-with-play.gif">
-</a>
+
+![Thumbnail image to the video](https://cdn.loom.com/sessions/thumbnails/58b6cd6e0f5c4557a0bdb52be88ade2d-with-play.gif "Go to video")
 
 
 
